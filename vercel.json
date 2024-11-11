@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://chat.whatsapp.com/ChCHuUA9KNq2JebGxxUYJa",
+      "permanent": true
+    }
+  ]
+} 
